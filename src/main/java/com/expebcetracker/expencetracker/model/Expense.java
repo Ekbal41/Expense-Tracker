@@ -24,4 +24,6 @@ public class Expense {
 	private String description;
 	
 	private BigDecimal amount;
+
+	private String imagename;
 }
